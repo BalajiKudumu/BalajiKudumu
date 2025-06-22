@@ -36,5 +36,5 @@ Generative AI<br>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BalajiKudumu&show_icons=true&locale=en&layout=compact" alt="BalajiKudumu" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BalajiKudumu" alt="BalajiKudumu" /></a></p>
 
-[Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=BalajiKudumu.BalajiKudumu)  
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=BalajiKudumu.BalajiKudumu)
 
