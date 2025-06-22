@@ -10,6 +10,11 @@ Natural Language Processing (NLP)<br>
 Neural Networks<br>
 Large Language Models (LLMs)<br>
 Generative AI<br>
+AWS<br>
+Docker<br>
+MSSQLI<br>
+Selenium<br>
+HTML/CSS<br>
 
 <p></p>
 <h2>🚀 Languages and Tools I Use</h2>
