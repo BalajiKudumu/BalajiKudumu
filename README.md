@@ -3,18 +3,18 @@
 
 📫 You can reach me at Balaji1997.dev@gmail.com<br>
 🛠️ I use these technologies:<br>
-Python<br>
-Django<br>
-Machine Learning (ML)<br>
-Natural Language Processing (NLP)<br>
-Neural Networks<br>
-Large Language Models (LLMs)<br>
-Generative AI<br>
-AWS<br>
-Docker<br>
-MSSQLI<br>
-Selenium<br>
-HTML/CSS<br>
+- Python<br>
+- Django<br>
+- Machine Learning (ML)<br>
+- Natural Language Processing (NLP)<br>
+- Neural Networks<br>
+- Large Language Models (LLMs)<br>
+- Generative AI<br>
+- AWS<br>
+- Docker<br>
+- MSSQLI<br>
+- Selenium<br>
+- HTML/CSS<br>
 
 <p></p>
 <h2>🚀 Languages and Tools I Use</h2>
