@@ -1,5 +1,6 @@
-Hi, I'm Balaji 👋<br>
-I'm a Data Engineer and AI enthusiast passionate about creating intelligent systems and driving innovation in AI. I work with Python, Django, Machine Learning, Neural Networks, and Large Language Models (LLMs). I actively work on cutting-edge AI projects and am eager to collaborate on open-source contributions, research, and innovative solutions in Natural Language Processing, deep learning architectures, and generative AI. Let’s connect and build the future of artificial intelligence together!<br><br>
+### Hi, I'm Balaji
+👋<br>
+#### I'm a Data Engineer and AI enthusiast passionate about creating intelligent systems and driving innovation in AI. I work with Python, Django, Machine Learning, Neural Networks, and Large Language Models (LLMs). I actively work on cutting-edge AI projects and am eager to collaborate on open-source contributions, research, and innovative solutions in Natural Language Processing, deep learning architectures, and generative AI. Let’s connect and build the future of artificial intelligence together!<br><br>
 
 📫 You can reach me at Balaji1997.dev@gmail.com<br>
 🛠️ I use these technologies:<br>
@@ -34,3 +35,6 @@ Generative AI<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BalajiKudumu&" alt="BalajiKudumu" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BalajiKudumu&show_icons=true&locale=en&layout=compact" alt="BalajiKudumu" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BalajiKudumu" alt="BalajiKudumu" /></a></p>
+
+[Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_REPO_NAME)  
+
