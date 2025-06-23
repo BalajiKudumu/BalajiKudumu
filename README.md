@@ -54,7 +54,7 @@
 <a target="_blank" href="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=BalajiKudumu&show_icons=true&locale=en" alt="BalajiKudumu" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BalajiKudumu&" alt="BalajiKudumu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BalajiKudumu&%22%20alt=%22BalajiKudumu" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BalajiKudumu&show_icons=true&locale=en&layout=compact" alt="BalajiKudumu" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BalajiKudumu" alt="BalajiKudumu" /></a></p>
 
