@@ -12,9 +12,8 @@
 </div>
 </div>
 
-  
-### Hi, I'm Balaji Kudumu 👋<br>
-### I'm a Data Engineer and AI enthusiast passionate about creating intelligent systems and driving innovation in AI. I work with Python, Django, Flask, Machine Learning, Neural Networks, and Large Language Models (LLMs).<br><p></p> I actively work on cutting-edge AI projects and am eager to collaborate on open-source contributions, research, and innovative solutions in Natural Language Processing, deep learning architectures, and generative AI.<br><p></p> Let’s connect and build the future of artificial intelligence together!<br><br>
+Hi, I'm <b>Balaji Kudumu</b> 👋<br>
+I'm a Data Engineer and AI enthusiast passionate about creating intelligent systems and driving innovation in AI. I work with Python, Django, Flask, Machine Learning, Neural Networks, and Large Language Models (LLMs).<br><p></p> I actively work on cutting-edge AI projects and am eager to collaborate on open-source contributions, research, and innovative solutions in Natural Language Processing, deep learning architectures, and generative AI.<br><p></p> Let’s connect and build the future of artificial intelligence together!<br><br>
 
 📫 You can reach me at Balaji1997.dev@gmail.com<br>
 🛠️ I use these technologies:<br>
