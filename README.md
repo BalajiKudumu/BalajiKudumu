@@ -13,6 +13,7 @@
 </div>
 
 Hi, I'm <b>Balaji Kudumu</b> 👋<br>
+
 I am an <b>IIT Patna Alumni</b> @MTech AIDSE, <b>Data Engineer</b>, and <b>AI enthusiast</b> passionate about building intelligent systems and driving innovation in Artificial Intelligence (AI). I specialize in <b>Python, Django, Flask, Machine Learning, Neural Networks, and Large Language Models (LLMs)</b>.
 
 I actively contribute to cutting-edge AI projects, focusing on <b>Natural Language Processing (NLP)</b>, <b>Deep Learning Architectures</b>, and <b>Generative AI</b>. I'm eager to collaborate on open-source contributions, research, and innovative AI solutions that push the boundaries of technology..<br><p></p> Let’s connect and build the future of artificial intelligence together!<br><br>
