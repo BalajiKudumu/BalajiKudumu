@@ -13,7 +13,9 @@
 </div>
 
 Hi, I'm <b>Balaji Kudumu</b> 👋<br>
-I'm a Data Engineer and AI enthusiast passionate about creating intelligent systems and driving innovation in AI. I work with Python, Django, Flask, Machine Learning, Neural Networks, and Large Language Models (LLMs).<br><p></p> I actively work on cutting-edge AI projects and am eager to collaborate on open-source contributions, research, and innovative solutions in Natural Language Processing, deep learning architectures, and generative AI.<br><p></p> Let’s connect and build the future of artificial intelligence together!<br><br>
+I am an <b>IIT Patna Alumni</b> @MTech AIDSE, <b>Data Engineer</b>, and <b>AI enthusiast</b> passionate about building intelligent systems and driving innovation in Artificial Intelligence (AI). I specialize in <b>Python, Django, Flask, Machine Learning, Neural Networks, and Large Language Models (LLMs)</b>.
+
+I actively contribute to cutting-edge AI projects, focusing on <b>Natural Language Processing (NLP)</b>, <b>Deep Learning Architectures</b>, and <b>Generative AI</b>. I'm eager to collaborate on open-source contributions, research, and innovative AI solutions that push the boundaries of technology..<br><p></p> Let’s connect and build the future of artificial intelligence together!<br><br>
 
 📫 You can reach me at Balaji1997.dev@gmail.com<br>
 🛠️ I use these technologies:<br>
