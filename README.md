@@ -60,6 +60,13 @@ I actively contribute to cutting-edge AI projects, focusing on <b>Natural Langua
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BalajiKudumu&show_icons=true&locale=en&layout=compact" alt="BalajiKudumu" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BalajiKudumu" alt="BalajiKudumu" /></a></p>
 
+
+# 📊 My GitHub Stats
+
+![GitHub watchers](https://img.shields.io/github/watchers/balajikudumu/balajikudumu?style=social)
+![GitHub stars](https://img.shields.io/github/stars/balajikudumu/balajikudumu?style=social)
+![GitHub forks](https://img.shields.io/github/forks/balajikudumu/balajikudumu?style=social)
+
 ## Visitors Count
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=BalajiKudumu.BalajiKudumu)
 
