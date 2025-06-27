@@ -58,7 +58,7 @@ I actively contribute to cutting-edge AI projects, focusing on <b>Natural Langua
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=BalajiKudumu&show_icons=true&locale=en" alt="BalajiKudumu" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BalajiKudumu&%22%20alt=%22BalajiKudumu" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BalajiKudumu&show_icons=true&locale=en&layout=compact" alt="BalajiKudumu" /></p>
-<p><img src="https://github-profile-trophy.vercel.app/?username=BalajiKudumu" alt="BalajiKudumu" /></a></p>
+
 
 
 <p align="center">
