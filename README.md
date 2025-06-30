@@ -29,6 +29,7 @@ I actively contribute to cutting-edge AI projects, focusing on <b>Natural Langua
 - Generative AI<br>
 - AWS<br>
 - Docker<br>
+- GIT<br>
 - Flask<br>
 - Streamlit<br>
 - MSSQL<br>
