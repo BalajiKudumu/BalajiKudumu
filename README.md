@@ -36,6 +36,7 @@ I actively contribute to cutting-edge AI projects, focusing on <b>Natural Langua
 - PysimpleGUI<br>
 - Selenium<br>
 - HTML/CSS<br>
+- HTML/CSS<br>
 
 <p></p>
 <h2>🚀 Languages and Tools I Use</h2>
