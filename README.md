@@ -5,8 +5,8 @@
   👋 Welcome to My GitHub Profile!
 </h1>
 
-<!-- Reliable typing animation SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=14F7A4&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+MTech+IIT+Patna+%7C+LLM+Developer;Automation+Expert+%7C+Selenium+%7C+Cloud+Deployments;Python+%7C+Django+%7C+Transformers+%7C+Flask" alt="Typing SVG" />
+<!-- Updated Typing SVG animation with color -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+MTech+IIT+Patna+%7C+LLM+Developer;Automation+Expert+%7C+Selenium+%7C+Cloud+Deployments;Python+%7C+Django+%7C+Transformers+%7C+Flask" alt="Typing SVG" />
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWh0OGZjaTRyaHRlcGZ0ZGx3YmltNG03N3AzMHpxdTFnZmt1bzR0eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT0xeJpnrWC4XWblEk/giphy.gif" width="600" />
 
@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Balaji Kudumu** — an **IIT Patna Alumnus (MTech AIDSE)**, **AI** and **Data Engineer** with a passion for delivering real-world impact through artificial intelligence.
+Hi, I'm **Balaji Kudumu** — an **IIT Patna Alumnus (MTech AIDSE)**, **AI Engineer**, and **Data Engineer** with a passion for delivering real-world impact through artificial intelligence.
 
 🔭 I work at the intersection of **Machine Learning**, **NLP**, and **LLMs**, delivering innovation across domains including:
 - 💬 Large Language Models (LLMs)
@@ -30,6 +30,8 @@ Hi, I'm **Balaji Kudumu** — an **IIT Patna Alumnus (MTech AIDSE)**, **AI** and
 
 - 📧 Email: **Balaji1997.dev@gmail.com**
 - 🧑‍💼 GitHub: [@BalajiKudumu](https://github.com/BalajiKudumu)
+- 🔗 LinkedIn: [Balaji Kudumu](https://www.linkedin.com/in/balaji-kudumu)
+
 ---
 
 ## ⚒️ Tech Stack & Tools
@@ -66,14 +68,13 @@ Hi, I'm **Balaji Kudumu** — an **IIT Patna Alumnus (MTech AIDSE)**, **AI** and
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (White Theme)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BalajiKudumu&show_icons=true&bg_color=ffffff&text_color=000000&icon_color=4CAF50&title_color=000000" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=BalajiKudumu&theme=default" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BalajiKudumu&layout=compact&bg_color=ffffff&text_color=000000&title_color=000000" />
 </p>
-
 
 ---
 
