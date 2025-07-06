@@ -62,13 +62,13 @@ Hi, I'm **Balaji Kudumu** — an **IIT Patna Alumnus (MTech AIDSE)**, **AI Engin
 
 ## 🧠 Languages & Libraries I Use
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,html,css,js,streamlit,tensorflow,keras,pytorch,selenium,git,docker,aws,vscode,bash,mysql,sqlite,postman" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,html,css,js,github,tensorflow,azure,aws,pytorch,selenium,git,docker,aws,vscode,bash,sqlite,postman,windows,git,anaconda" />
+</div>
 
 ---
 
-## 📊 GitHub Stats (White Theme)
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BalajiKudumu&show_icons=true&bg_color=ffffff&text_color=000000&icon_color=4CAF50&title_color=000000" />
@@ -81,7 +81,7 @@ Hi, I'm **Balaji Kudumu** — an **IIT Patna Alumnus (MTech AIDSE)**, **AI Engin
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BalajiKudumu&theme=gruvbox&margin-w=15&row=2&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=BalajiKudumu&theme=flat&margin-w=15&row=2&column=3" />
 </p>
 
 ---
