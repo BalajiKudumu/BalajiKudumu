@@ -30,8 +30,6 @@ Hi, I'm **Balaji Kudumu** — an **IIT Patna Alumnus (MTech AIDSE)**, **AI Engin
 
 - 📧 Email: **Balaji1997.dev@gmail.com**
 - 🧑‍💼 GitHub: [@BalajiKudumu](https://github.com/BalajiKudumu)
-- 🔗 LinkedIn: [Balaji Kudumu](https://www.linkedin.com/in/balaji-kudumu)
-
 ---
 
 ## ⚒️ Tech Stack & Tools
