@@ -60,7 +60,7 @@ Hi, I'm **Balaji Kudumu** — an **IIT Patna Alumni (MTech AIDSE)**, **AI Engine
 ## 🧠 Languages & Libraries I Use
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,html,css,js,github,tensorflow,azure,aws,pytorch,selenium,git,docker,aws,vscode,bash,sqlite,postman,windows,git,anaconda" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,html,css,js,github,tensorflow,azure,aws,pytorch,selenium,git,docker,vscode,bash,sqlite,postman,windows,git,anaconda" />
 </div>
 
 ---
