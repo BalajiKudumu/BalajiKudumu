@@ -31,7 +31,7 @@ Hi, I'm **Balaji Kudumu** — an **IIT Patna Alumni (MTech AIDSE)**, **AI Engine
 
 ---
 
-## ⚒️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
