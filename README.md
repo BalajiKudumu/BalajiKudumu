@@ -12,7 +12,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Hi, I'm **Balaji Kudumu** — an **IIT Patna Alumni (MTech AIDSE)**, **AI Engineer**, and **Data Engineer** with a passion for delivering real-world impact through artificial intelligence.
 
