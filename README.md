@@ -88,5 +88,5 @@ Hi, I'm **Balaji Kudumu** — an **AI Engineer**, and **Data Engineer** with a p
 </p>
 
 <p align="center">
-  🚀 Thanks for visiting! Let’s innovate together.
+  Thanks for visiting! Let’s innovate together.
 </p>
