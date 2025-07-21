@@ -16,7 +16,7 @@
 
 Hi, I'm **Balaji Kudumu** — an **AI Engineer**, and **Data Engineer** with a passion for delivering real-world impact through artificial intelligence.
 
-🔭 I work at the intersection of **Machine Learning**, **NLP**, and **LLMs**, delivering innovation across domains including:
+I work at the intersection of **Machine Learning**, **NLP**, and **LLMs**, delivering innovation across domains including:
 - Large Language Models (LLMs)
 - Deep Learning & Transformers
 - AI Research & Automation Tools
