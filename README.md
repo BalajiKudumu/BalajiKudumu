@@ -57,7 +57,7 @@ I work at the intersection of **Machine Learning**, **NLP**, and **LLMs**, deliv
 
 ---
 
-## Languages & Libraries 
+## Languages & Libraries I Use
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,django,flask,html,css,js,github,tensorflow,azure,aws,pytorch,selenium,git,docker,vscode,bash,sqlite,postman,windows,git,anaconda" />
