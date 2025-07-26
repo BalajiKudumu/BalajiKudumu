@@ -22,6 +22,8 @@ I work at the intersection of **Machine Learning**, **NLP**, and **LLMs**, deliv
 - AI Research & Automation Tools
 - Salesforce API & Data Pipelines
 
+**Certification**
+1. IBM Certified Data Science Professional
 ---
 
 ## Let's Connect
