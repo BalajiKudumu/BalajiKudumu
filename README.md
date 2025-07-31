@@ -24,7 +24,7 @@ I work at the intersection of **Machine Learning**, **NLP**, and **LLMs**, deliv
 
 **Certification**
 1. IBM Certified Data Science Professional
-2. DeepLearning.AI Certificated TensorFlow Developer Professional 
+2. DeepLearning.AI Certified TensorFlow Developer Professional 
 
 ---
 
