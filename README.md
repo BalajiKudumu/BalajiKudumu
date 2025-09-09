@@ -26,7 +26,7 @@ I work at the intersection of **Machine Learning**, **NLP**, and **LLMs**, deliv
 
 ## Let's Connect
 
-- 📧 Email: **Balaji1997.dev@gmail.com**
+- 📧 Email: **balaji1997.dev@gmail.com**
 - 🧑‍💼 GitHub: [@BalajiKudumu](https://github.com/BalajiKudumu)
 
 ---
