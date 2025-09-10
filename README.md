@@ -88,5 +88,5 @@ I work at the intersection of **Machine Learning**, **NLP**, and **LLMs**, deliv
 </p>
 
 <p align="center">
-  Thanks for visiting! Let’s innovate together.
+  Thanks for visiting! Let’s collaborate and innovate together.
 </p>
