@@ -14,7 +14,7 @@
 
 ## About Me
 
-Hi, I'm **Balaji Kudumu** - an **Data Engineerr**, and **AI Enthusiast** with a passion for delivering real-world impact through artificial intelligence. I'm also an IBM Certified Data Science Professional & Deeplearning.AI Professional Tensorflow Developer.
+Hi, I'm **Balaji Kudumu** - an **Data Engineer**, and **AI Enthusiast** with a passion for delivering real-world impact through artificial intelligence. I'm also an IBM Certified Data Science Professional & Deeplearning.AI Professional Tensorflow Developer.
 
 I work at the intersection of **Machine Learning**, **NLP**, and **LLMs**, delivering innovation across domains including:
 - Large Language Models (LLMs)
