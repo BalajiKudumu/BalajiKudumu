@@ -21,7 +21,7 @@ I work at the intersection of **Machine Learning**, **NLP**, and **LLMs**, deliv
 - Deep Learning & Transformers
 - AI Research & Automation Tools
 - Salesforce API & Data Pipelines
-
+- AI Researcher
 ---
 
 ## Let's Connect
